@@ -1,0 +1,32 @@
+Movie-Recommendation-System/
+│
+├── data/
+│   ├── movies.csv
+│   ├── ratings.csv
+│   └── combined_movie_dataset.csv
+│
+├── notebooks/
+│   └── Movie_Recommendation_System.ipynb
+│
+├── src/
+│   ├── data_preprocessing.py
+│   ├── user_tower.py
+│   ├── movie_tower.py
+│   ├── model.py
+│   ├── train.py
+│   ├── evaluate.py
+│   └── recommend.py
+│
+├── saved_model/
+│   └── movie_recommender_model/
+│
+├── screenshots/
+│   ├── dataset_preview.png
+│   ├── training_result.png
+│   ├── recommendations.png
+│   └── architecture.png
+│
+├── requirements.txt
+├── README.md
+├── LICENSE
+└── .gitignore
